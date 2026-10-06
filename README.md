@@ -1,12 +1,12 @@
 # Simple Calculator
 
-A tiny calculator built with plain HTML, CSS and JavaScript. Used to demo Git, GitHub and CI with GitHub Actions.
+A tiny calculator built with plain HTML, CSS and JavaScript. Used to demo Git, GitHub and CI with GitHub Actions. 
 
 ## Run it
 
 Clone the repo and double-click `index.html`. No installs, no server.
 
-## Run the tests (in the browser)
+## Run the tests (in the browser) sukruti
 
 Open `tests/tests.html`. It shows PASS/FAIL for each test.
 
